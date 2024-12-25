@@ -15,13 +15,18 @@ To write a python program to implement multivariate linear regression and predic
 <br>From dataset select dependent variable and one independent variable to and to find the relationship of one more two independent variables.
 
 ### Step4
-<br>use linearmodel into that use linear regression function to computr the variables.
+<br>use linearmodel into that use linear regression function to compute the variables.
 
 ### Step5
 <br>use regression.fit function of inputted variables of x and y and print corresponding results to get output.
 
 ## Program:
 ```
+Developed by:Veshwanth
+Regno:24010033
+
+
+
 import pandas as pd
 from sklearn import linear_model
 df=pd.read_csv("C:\\Users\\admin\\Downloads\\car.csv")
