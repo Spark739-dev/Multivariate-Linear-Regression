@@ -12,7 +12,7 @@ To write a python program to implement multivariate linear regression and predic
 <br>use pandas inbuilt function to get and input csv file from user using pd.read_csv(path of csv file) command.
 
 ### Step3
-<br>From dataset select dependent variable and one independent variable to and to find the relationship of one oore two independent variables.
+<br>From dataset select dependent variable and one independent variable to and to find the relationship of one more two independent variables.
 
 ### Step4
 <br>use linearmodel into that use linear regression function to computr the variables.
